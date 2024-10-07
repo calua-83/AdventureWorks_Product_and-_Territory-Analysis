@@ -15,7 +15,7 @@ In my GitHub repository(AdventureWorks_Product_and-_Territory-Analysis), you wil
  - The visuals highlight key performance metrics, trends, and month-to-month sales distribution. The report includes total sales, total units sold, profit figures, and a ranking of the top 10 best-selling products.
 ### 2. Territory Analysis Report: Performance Comparisons
  - Analyze sales performance across different territories to identify High and low performing regions
-   ![]()
+   ![](https://github.com/calua-83/AdventureWorks_Product_and-_Territory-Analysis/blob/main/product_distribution_by_region.png?raw=true)
 ### 3. Evaluate the impact of external factors(e.g economic conditions, marketing campaigns) on product performance
  - We have created visualization of products and territory performance, including external factors impact such as seasonal impact.
 ## Conclusion
